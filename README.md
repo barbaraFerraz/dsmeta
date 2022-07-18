@@ -19,7 +19,6 @@ A aplicação consiste em uma lista com registro de vendedores e suas respectiva
 - H2 Database
 - Maven
 ## Front end
-- Visual Code
 - HTML / CSS / JS / TypeScript
 - ReactJS
 - React Hooks
