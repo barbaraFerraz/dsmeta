@@ -38,6 +38,6 @@ A aplicação consiste em uma lista com registro de vendedores e suas respectiva
 ```
 # Autor
 
-Bárbara Thamires de Fátima Azevedo Ferraz
+Bárbara Thamires de Fátima Azevedo Ferraz 
 
 https://www.linkedin.com/in/b%C3%A1rbara-ferraz9/
