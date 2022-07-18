@@ -34,10 +34,10 @@ A aplicação consiste em uma lista com registro de vendedores e suas respectiva
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: H2
-
-```
+- 
 # Autor
 
-Bárbara Thamires de Fátima Azevedo Ferraz 
+Bárbara Thamires de Fátima Azevedo Ferraz
 
-https://www.linkedin.com/in/b%C3%A1rbara-ferraz9/
+https://www.linkedin.com/in/b%C3%A1rbara-ferraz-2a231a185/
+
